@@ -1,1 +1,2 @@
-![profile](https://github.com/user-attachments/assets/5dd3b152-3756-42d5-a406-ce016eb6f052)
+<img width="1024" height="572" alt="PORTADA GITHUB NUEVA" src="https://github.com/user-attachments/assets/c6dcbe78-956b-44ee-868d-43b5450ae336" />
+
