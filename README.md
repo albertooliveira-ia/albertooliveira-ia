@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alberto Oliveira</h1>
-<h3 align="center">Passionate Full Stack Developer specialized in frontend and backend technologies like React, Python, and SQL.</h3>
+<h3 align="center">Passionate Full Stack Developer focused on building clean and efficient web applications.</h3>
 
 - 💬 Ask me about **Frontend (React, JS), Backend (Python, Node.js, Flask), Databases (MySQL, PostgreSQL) & Git**
 
