@@ -4,17 +4,18 @@ markdown
 
 <p align="center">
   Passionate Full Stack Developer focused on building clean, efficient and user-friendly web applications.
-  Recently graduated from 4Geeks Academy Full Stack Bootcamp.
+  Graduated from the 4Geeks Academy Full Stack Developer Bootcamp.
 </p>
 
 ---
 
 ### 🧑‍💻 About me
 - 🔭 I build web apps with **React** on the front and **Flask / Node.js** on the back
-- 🌱 Currently sharpening my skills in **REST APIs, JWT authentication and clean code**
+- 🤝 Experienced working in a **team with Git** (branches, pull requests, code reviews)
+- 🌱 Currently improving my skills in **REST APIs, authentication (JWT) and payment integrations**
 - 💬 Ask me about **React, JavaScript, Python, Flask, SQL & Git**
 - 📫 Reach me at **albertooliveirajaen@gmail.com**
-- 🌍 Open to **Full Stack / Frontend** roles ⟨remoto / tu zona⟩
+- 🌍 Open to **Full Stack / Frontend** roles — ⟨remote⟩
 
 ---
 
@@ -47,30 +48,27 @@ markdown
 **Database & Tools**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| ⭐ [Star Wars Blog](⟨url-repo-starwars⟩) | Web app que consume la API de SWAPI con listado de personajes, planetas y vehículos, vista de detalle y sistema de favoritos con persistencia en localStorage. | React, Context API, Bootstrap |
-| 🔐 [JWT Auth App](⟨url-repo-jwt⟩) | Sistema completo de autenticación de usuarios (registro, login, rutas privadas y logout) con tokens JWT. | React, Flask, JWT, PostgreSQL |
+#### 🎫 [4Tickets.com](https://github.com/4GeeksAcademy/4tickets.com) — *Final team project*
+Web platform for **event ticketing**. Users browse events, follow their favorites, and **purchase tickets with real money via Stripe** (with QR code generation). Businesses register, access a **dashboard**, and create/manage their own events. Includes **JWT** authentication, inventory management, and **Render** deployment.
+> **Tech:** React · Flask · PostgreSQL · Stripe · JWT · React-Toastify  
+> **My role:** Collaborative full-stack development with Git (branches, pull requests, and team merges)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albertooliveira-ia&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertooliveira-ia&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=albertooliveira-ia&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertooliveira-ia&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albertooliveira-ia&theme=tokyonight&hide_border=true" alt="streak"/>
-</p>
 
 
 
