@@ -60,15 +60,6 @@ Web platform for **event ticketing**. Users browse events, follow their favorite
 > **Tech:** React · Flask · PostgreSQL · Stripe · JWT · React-Toastify  
 > **My role:** Collaborative full-stack development with Git (branches, pull requests, and team merges)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albertooliveira-ia&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertooliveira-ia&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
 
 
 
